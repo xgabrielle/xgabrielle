@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gabrielle</h1>
-<h3 align="center">Creative problem solver</h3>
+<h1 align="center">Hello there 👋, I'm Gabrielle</h1>
+<h3 align="center">Creative problem solver!</h3>
 
 - 🌱 I’m currently expanding my knowledge in **C#, C++, Algorithm & Data Structures**
 
