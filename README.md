@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Gabrielle</h1>
 <h3 align="center">Creative problem solver!</h3>
 
-- 🌱 I’m currently expanding my knowledge in **C#, C++, Algorithm & Data Structures**
+- 🌱 I’m currently expanding my knowledge in **C#, C++, Algorithm & Data Structures and learning more about backend programming**
 
 - 👨‍💻 All of my projects are available at [gabriellebergman7.wixsite.com/mysite](gabriellebergman7.wixsite.com/mysite)
 
